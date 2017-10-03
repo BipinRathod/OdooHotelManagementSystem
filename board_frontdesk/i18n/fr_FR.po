@@ -1,0 +1,108 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* board_frontdesk
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-25 10:54+0000\n"
+"PO-Revision-Date: 2017-09-25 10:54+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_hotel_restaurant_order_board
+msgid "Current Orders Details"
+msgstr "Détails des commandes actuelles"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_table_order_board
+msgid "Current Table Reservation Details"
+msgstr "Détails de la réservation de table actuelle"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "Currently Reserved Tables Details"
+msgstr "Détails des tables réservés"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_view_frontdesk_cal
+msgid "FrontDesk"
+msgstr "Réception"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.open_board_frontdesk
+msgid "FrontDesk Dashboard"
+msgstr "Dashboard Réception"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "FrontDesk board"
+msgstr "Tableau Réception"
+
+#. module: board_frontdesk
+#: model:ir.ui.menu,name:board_frontdesk.menu_board_frontdesk
+msgid "Hotel FrontDesk Board"
+msgstr "Réception de l'hotel"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_hotel_room_board
+msgid "Hotel Rooms Details"
+msgstr "Chambres de l'hôtel"
+
+#. module: board_frontdesk
+#: model:ir.ui.menu,name:board_frontdesk.menu_hotel_reporting
+msgid "Reports"
+msgstr "Rapports"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "Reservation"
+msgstr "Réservation"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "Reservation Summary"
+msgstr "Récapitulatif"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "Rooms Details"
+msgstr "Details des chambres"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_report_hotel_reservation_status_tree_graph_bar12
+#: model:ir.ui.menu,name:board_frontdesk.menu_hotel_reservation_status_tree_graph_bar11
+msgid "States By Reservation"
+msgstr "États par réservation"
+
+#. module: board_frontdesk
+#: model:ir.ui.menu,name:board_frontdesk.menu_action_report_hotel_restaurant_board
+msgid "States By Restaurant"
+msgstr "États par restaurant"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_report_hotel_restaurant_board
+msgid "States By Restaurants"
+msgstr "États par restaurants"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.view_board_hotel_restaurant_reservation_tree
+msgid "Table Reservation"
+msgstr "Réservation de table"
+
+#. module: board_frontdesk
+#: model:ir.ui.view,arch_db:board_frontdesk.board_frontdesk_form
+msgid "Today's Restaurant Orders"
+msgstr "Commandes d'aujourd'hui"
+
+#. module: board_frontdesk
+#: model:ir.actions.act_window,name:board_frontdesk.action_desk_hotel_reservation_summary
+msgid "action.desk.hotel.reservation.summary"
+msgstr "action.desk.hotel.reservation.summary"
+
